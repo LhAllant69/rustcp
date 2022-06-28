@@ -1,2 +1,2 @@
 # rustcp
-Competitive programming template
+My simple rust competitive programming template
