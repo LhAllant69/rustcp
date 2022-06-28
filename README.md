@@ -1,0 +1,2 @@
+# rustcp
+Competitive programming template
